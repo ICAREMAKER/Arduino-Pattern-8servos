@@ -86,7 +86,7 @@ for (int s = 0; s < 8; s++) { //J'envoie colonne par colonne la position des ser
   }
  }
 ```
-## AVANCE
+## AVANCE()
 
 ```C
 void AVANCE()
